@@ -1,0 +1,34 @@
+.desc {
+  text-align: left;
+  padding-top: 40px;
+}
+
+.formOne {
+  padding-top: 35px;
+}
+
+.backgroundStyle{
+    background-color: rgb(16, 21, 22);
+    height: 92vh;
+    color: white;
+}
+.cama{
+    background-image: url("https://i.pinimg.com/originals/ec/e7/5f/ece75f1e9fec21e1d4eb7bbc1389c591.jpg");
+}
+
+.camaTwo{
+    background-image: url("https://media.istockphoto.com/vectors/geometric-camouflage-seamless-pattern-abstract-modern-camo-black-and-vector-id1182197994?k=20&m=1182197994&s=170667a&w=0&h=bTqtcUA6m09ctnLV_DEsJEnC4877wOuD842blVtLY6c=");
+}
+
+.logoOne{
+    
+    height: 50vh;
+    
+}
+
+.logoTwo{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    height: 50vh;
+}
